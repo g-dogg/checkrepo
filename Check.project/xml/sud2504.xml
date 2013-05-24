@@ -1,0 +1,3577 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<schedule>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:00:00</beginTime>
+        <sessionNumber>А46-31895/2012</sessionNumber>
+        <sides>
+            <sideName>Бюджетное учреждение здравоохранения Омской области &quot;Центр Восстановительной медицины и реабилитации Омской области&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Отдел государственной инспекции безопасности дорожного движения полиции УМВД России по городу Омску</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Киричёк Ю.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:20:00</beginTime>
+        <sessionNumber>А70-7038/2011</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;ТИКОМ&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ТюменьОйлКомпани&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;Тюменьэлектросетьстрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Райффайзенбанк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Степанов В.А.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы Росии №6 по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество  &quot;Тюменьэлектросетьстрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Техстройинжиниринг&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы судебных приставов по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП АУ &quot;Партнер&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы России по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Арбитражный управляющий Завадовский Геогргий Геннадбевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Микушин Н.М.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:30:00</beginTime>
+        <sessionNumber>А46-31902/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Центр технической безопасности и диагностики &quot;Полисервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Сибирское управление Федеральной службы по экологическому, технологическому и атомному надзору</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:30:00</beginTime>
+        <sessionNumber>А70-9317/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;КомпАКТ&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Территориальное управление Федерального агентства по управлению федеральным имуществом по ТО (ТУ Росимущества в Тюменской области)</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное агентство по управлению государственным имуществом</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Киричёк Ю.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:30:00</beginTime>
+        <sessionNumber>А75-6788/2012</sessionNumber>
+        <sides>
+            <sideName>Администрация муниципального образования г. Нягани</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Порт&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент имущественных и земельных отношений Админстрации г. Нягани</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:40:00</beginTime>
+        <sessionNumber>А75-3948/2012</sessionNumber>
+        <sides>
+            <sideName>муниципальное казенное учреждение Администрации города Когалыма</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Абулгасанов Яхя  Мамед оглы</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:45:00</beginTime>
+        <sessionNumber>А70-10331/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Альфа-Новация&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Сибспецстрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент дорожной инфраструктуры и транспорта Администрации города Тюмени</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:45:00</beginTime>
+        <sessionNumber>А70-10848/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Агро Продукт и К&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Эвентастрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:45:00</beginTime>
+        <sessionNumber>А75-10156/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сургутнефтегаз&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Служба по контролю и надзору в сфере охраны окружающей среды, объектов животного мира и лесных отношений Ханты-Мансийского автономного округа - Югры</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>09:50:00</beginTime>
+        <sessionNumber>А70-10726/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ЛИСТ&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация г. Тюмени</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>департамент имущественных отношений Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Киричёк Ю.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:00:00</beginTime>
+        <sessionNumber>А46-29913/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Кирпичный завод СК&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Основа Холдинг&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное государственное бюджетное учреждение &quot;Федеральная кадастровая палата  Федеральной службы государственной регистрации кадастра и картографии&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Основа Холдинг&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:00:00</beginTime>
+        <sessionNumber>А70-11975/2012</sessionNumber>
+        <sides>
+            <sideName>Первый заместитель прокурора Тюменской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Судебный пристав-исполнитель районного отдела  судебных приставов  Центрального административного округа  Гилева Ольга Анатольевна</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент земельных ресурсов Администрации г. Тюмени</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Гойло Светлана Юльяновна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:00:00</beginTime>
+        <sessionNumber>А75-10494/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Воентелеком&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;СЕВЕРСВЯЗЬ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:10:00</beginTime>
+        <sessionNumber>А70-162/2013</sessionNumber>
+        <sides>
+            <sideName>Управление инспекции государственного строительного надзора по Тюменской области главного управления  строительства Тюменской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Строительная компания &quot;Зеленый квадрат&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Киричёк Ю.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:15:00</beginTime>
+        <sessionNumber>А46-31799/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;МанросИнвест&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация Кировского административного округа города Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Гаражный кооператив &quot;Полет-41А&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:15:00</beginTime>
+        <sessionNumber>А75-4905/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Юганскводоканал&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Жилищно-эксплуатационный участок № 4&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Жилищно-эксплуатационный участок № 4&quot; (представитель Власова Т.Г.)</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Расчетно-кассовый центр жилищно-коммунального хозяйства города Нефтеюганска&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:15:00</beginTime>
+        <sessionNumber>А81-3498/2012</sessionNumber>
+        <sides>
+            <sideName>Администрация города Муравленко</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной антимонопольной службы по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:20:00</beginTime>
+        <sessionNumber>А75-7329/2012</sessionNumber>
+        <sides>
+            <sideName>Компания Розелия Лимитед (ROSELIA LIMITED)</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Компания Розелия Лимитед</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Запсибэлектросетьстрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:30:00</beginTime>
+        <sessionNumber>А70-11086/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Уралмостострой&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Аэродромдорстрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:30:00</beginTime>
+        <sessionNumber>А75-7752/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Яковлев Олег Борисович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Союз Север Строй&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сбербанк России&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:30:00</beginTime>
+        <sessionNumber>А75-8536/2012</sessionNumber>
+        <sides>
+            <sideName>Государственное предприятие Ханты-Мансийского автономного округа - Югры &quot;Лесосервисная компания &quot;Югралесхоз&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Служба по контролю и надзору в сфере охраны окружающей среды, объектов животного мира и лесных отношений Ханты-Мансийского автономного округа - Югры</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Русский проект&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Киричёк Ю.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:30:00</beginTime>
+        <sessionNumber>А75-9290/2012</sessionNumber>
+        <sides>
+            <sideName>Администрация г. Сургута</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Зарема&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:30:00</beginTime>
+        <sessionNumber>А75-9420/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Дельта&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Служба по контролю и надзору в сфере охраны окружающей среды, объектов животного мира и лесных отношений Ханты-Мансисйкого автономного округа - Югры</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:40:00</beginTime>
+        <sessionNumber>А46-12647/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сбербанк России&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Сварог&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Территориальное управление  Федерального  агентства по управлению государственным имуществом  в Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Проектно - изыскательский и научно - исследовательский институт по проектированию энергетических систем и электрических сетей &quot;ЭНЕРГОСЕТЬПРОЕКТ&quot;&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной миграционной службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Котелевский Денис Викторович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Апонасенко Максим Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;Саморегулируемая организация арбитражных управляющих &quot;Гарантия&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Сварог&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Временный управляющий Мунш Виктор Викторович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Акционерный коммерческий Сберегательный банк (ОАО)</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью  &quot;Сибирский Шпон&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Российский Сельскохозяйственный Банк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ракот&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы №2 по Центральному административному округу г. Омска</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий ЗАО &quot;Сварог&quot; Лясман Аглая Эдуардовна</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:40:00</beginTime>
+        <sessionNumber>А46-29260/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;С.Б.А./Гала Рекордз&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Лактионова Мария Сергеевна</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:45:00</beginTime>
+        <sessionNumber>А46-28560/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;Строительно - монтажное управление - 1&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Управляющая компания &quot;Строительно - монтажное управление - 1&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Домостроительная корпорация &quot;Стройбетон&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:45:00</beginTime>
+        <sessionNumber>А46-29664/2012</sessionNumber>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №1 по Омской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Козлов Владимир Николаевич</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Некоммерческое партнерство  &quot;Национальная гильдия арбитражных управляющих&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Страховая компания ООО &quot;БАЛТ - страхование&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:45:00</beginTime>
+        <sessionNumber>А46-6534/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Торговый дом &quot;Промышленное снабжение&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 12 по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 1 по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Киричёк Ю.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:50:00</beginTime>
+        <sessionNumber>А46-29139/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Черноглазовские мельницы&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №6 по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Московская ипотечная Компания&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>10:50:00</beginTime>
+        <sessionNumber>А46-29142/2012</sessionNumber>
+        <sides>
+            <sideName>Горелова Елена Николаевна</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Муромцев Валерий Михайлович</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Левченко Сергей Алексеевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ДЮАЛ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:00:00</beginTime>
+        <sessionNumber>А46-23000/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Якумов Дмитрий Анатольевич</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 4 по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы №2 по Центральному административному округу г. Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:00:00</beginTime>
+        <sessionNumber>А46-29282/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Строительная компания &quot;Кедр&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Строительная компания &quot;Кедр&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Концептстрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:00:00</beginTime>
+        <sessionNumber>А70-10808/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ТетраКомСервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ВИРАЖ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:00:00</beginTime>
+        <sessionNumber>А70-9335/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ОРИОН-Т</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Муниципальное казенное учреждение&quot;Стройзаказчик&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:10:00</beginTime>
+        <sessionNumber>А81-1816/2010</sessionNumber>
+        <sides>
+            <sideName>закрытое акционерное общество «Научно-производственное объединение «Уренгой Гео Ресурс»</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;НГС&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;РН-Строй&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП Саморегулируемая организация &quot;Альянс Строителей&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Гулик Анатолий Алексеевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью Компания &quot;СибГазСтройМонтаж&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ПриполярБурСервис&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Спецгазсервис&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Никулин Валерий Николаевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Сибспецстройремонт&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>ООО &quot;РН-Строй&quot; </sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №2 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;РУпОРТ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Куштаев Таскали Калиевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:15:00</beginTime>
+        <sessionNumber>А46-33168/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;ОТП Банк&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Государственное учреждение Омское региональное отделение Фонда социального страхования Российской Федерации</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шиндлер Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:15:00</beginTime>
+        <sessionNumber>А46-4772/2011</sessionNumber>
+        <sides>
+            <sideName>Ковтун Владимир Николаевич</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;НПФ &quot;ЛиКОМ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;Теплогенерирующий комплекс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Электротехнический комплекс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Мусялов Юрий Владимирович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Миннеханов Гизар Нигъматьянович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;НПФ &quot;ЛиКОМ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Отдел адресно-справочной работы УФМС России по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Мусялов Сергей Владимирович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Федоренко Олег Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Шульга Валерий Павлович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Омсклитпром&quot; в лице конкурсного управляющего Чернякова Олега Михайловича</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Шевцов Александр Петрович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Солнышков Михаил Юрьевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Ростелеком&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Омский филиал Открытого акционерного общества &quot;Ростелеком&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сметанин Андрей Энгельсович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Хакасский бентонит&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество  &quot;Ростелеком&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по Советскому административному округу г. Омска</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Комлев В.Л.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:15:00</beginTime>
+        <sessionNumber>А46-9957/2011</sessionNumber>
+        <sides>
+            <sideName>Департамент имущественных отношений  Администрации города Омска</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Зеленая долина&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:15:00</beginTime>
+        <sessionNumber>А70-11649/2011</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Русский Азов&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Астра и К&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;МДМ Банк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;Краснодарская межрегиональная саморегулируемая организация арбитражных управляющих&quot;Единство&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы России по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Олимп империал&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество  &quot;Строительное управление &quot;ТМРГ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Авантаж&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Эм Пи Джи Трейд&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Оазис&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сибирь&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;ВКЗ Дагвино&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Северная Звезда&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Бенат&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ДиЛ-Алко&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Завод &quot;Северная Венеция&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы судебных приставов по Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ВиноВин&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Литвинов Евгений Анатольевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Бекоев В.В.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:15:00</beginTime>
+        <sessionNumber>А75-7603/2012</sessionNumber>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Сургутпромавтоматика&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Нефтемонтажспецстрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:20:00</beginTime>
+        <sessionNumber>А46-14533/2010</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Урал СТ&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Нефтегазстрой&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Единственный участник ООО &quot;Нефтегазстрой&quot; Дзюба Ю.Н.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ТрансИнКом&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы  № 13 по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Максимум Сервис&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Погребняк Виктор Алексеевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Краснодаргазстрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Дзюба Моторс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество  Банк ВТБ</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Технопроект&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Некоммерческое партнерство &quot;Уральская саморегулируемая организация арбитражных управляющих&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Дзюба Юрий Николаевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Павлов Владимир Ильич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сивая Светлана Николаевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Калантаева Валентина Анатольевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Банк ВТБ 24 (Закрытое акционерное общество)</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Арбитражный управляющий Веретенников Сергей Михайлович</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Временный управляющий Веретенников Сергей Михайлович</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий ООО &quot;Нефтегазстрой&quot; Погребняк В.А.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:20:00</beginTime>
+        <sessionNumber>А46-28839/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Научно-производственное объединение &quot;Мостовик&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Винэя&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:25:00</beginTime>
+        <sessionNumber>А46-33169/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;ОТП Банк&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Государственное учреждение Омское региональное отделение Фонда социального страхования Российской Федерации</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Сидоренко О.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:30:00</beginTime>
+        <sessionNumber>А46-17876/2011</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Закиров Ринат Габдульхович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы №2 по Центральному административному округу г. Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Сидоренко О.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:30:00</beginTime>
+        <sessionNumber>А70-12420/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Ямов Геннадий Ферапонтович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Тюменское пассажирское автотранспортное предприятие №1&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:30:00</beginTime>
+        <sessionNumber>А75-4910/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Юганскводоканал&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Жилищно-Эксплуатационный участок № 5&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Расчтеон-кассовый центр жилищно-коммунального хозяйства г. Нефтеюганска&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:30:00</beginTime>
+        <sessionNumber>А81-4253/2012</sessionNumber>
+        <sides>
+            <sideName>Управление муниципального хозяйства Администрации муниципального образования поселок Пангоды</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление федеральной службы государственной регистрации, кадастра и картографии по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление федеральной службы государственной регистрации, кадастра и картографии по Ямало-Ненецкому автономному округу (Надымский отдел)</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:40:00</beginTime>
+        <sessionNumber>А81-2463/2010</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;СибСтройРемонт&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Строительно-монтажный трест&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;Межрегиональная саморегулируемая организация арбитражных управляющих &quot;Стратегия&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Газпромнефть-Ноябрьскнефтегаз&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Спецмонтажстрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Уралнефтегазспецмонтаж&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Грант-Союз&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью  &quot;Ноябрьсктеплонефть&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Северная энергетическая компания&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ямалстрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Промышленный союз&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ВИРИЛЕН&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Теплолюкс-Тюмень&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью  &quot;ИнтерСтрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;НГСК&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;АСМ-Ресурс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Гарант-Союз&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Стройтрансгаз&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Контракт-Сервис&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Нефтегазстройконтроль&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по городу Ноябрьску Ямало-Ненецкого автономного округа</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество  &quot;Торговый дом &quot;КОНАР&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ноябрьскпром строй комплект&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Торговый Дом &quot;ВЭЛАН&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью  &quot;Ноябрьскнефтегазсвязь&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Спецтехника&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Меньшиков С.В.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Металл - Модуль&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Бабичев В.П.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ДОМИНАНТА&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Промышленная Металлургическая компания&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;СЕРЕБРЯННЫЙ МИР&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество  &quot;Протекс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Промышленная металлургическая компания&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;СФФ Глостер&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью Строительная компания &quot;СеверДорСтрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Доминанта&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество  &quot;Газпромнефть-Тюмень&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ноябрьск промстройкомплект&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Магистраль&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Урадовский Игорь Геннадьевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Нефтьмонтаж&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество  &quot;Тюменская энергосбытовая компания&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Сибспецснаб&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Металл модуль&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью ПКФ СЕВЕРСТРОЙСЕРВИС</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной регистрационной службы по Тюменской области, ХМАО и ЯНАО</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сервисная Логистическая Компания&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Региональный технический центр&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Сургутпромавтоматика&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Урадовский Игорь Геннадьевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Вирилен&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ноябрьская центральная трубная база&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;СФК Югория&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Ноябрьскгазсервис&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;УК&quot;Растам&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Межрегионэнергосбыт&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ПСТ Инжиниринг&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Набиева Зульфира Исхаковна</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью&quot;Газком космические технологии&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Желнин Евгений Петрович</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Муравленковская Транспортная Компания&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ТюменьСибГаз&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ноябрьск-ПромСтройКомплект&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Регион&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество  &quot;Промрегионкомплект&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью  &quot;Промстрой-инжиниринг&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;КомТранс&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:45:00</beginTime>
+        <sessionNumber>А46-28352/2012</sessionNumber>
+        <sides>
+            <sideName>Управление судебного департамента в Омской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Муниципальное унитарное предприятие &quot;Теплосеть-1&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:45:00</beginTime>
+        <sessionNumber>А46-28633/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Третьяков Владислав Владимирович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Русь&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>11:45:00</beginTime>
+        <sessionNumber>А46-33234/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Торговый центр &quot;Континент&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Кировский районный отдел судебных приставов Управления федеральной службы судебных приставов по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Бюджетное учреждение Омской области &quot;Агентство жилищного строительства&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:00:00</beginTime>
+        <sessionNumber>А46-218/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Лялюшкин Сергей Миноминович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по Советскому административному округу г. Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:00:00</beginTime>
+        <sessionNumber>А70-9881/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Дорспецстрой&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью Управляющая компания &quot;Север&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:00:00</beginTime>
+        <sessionNumber>А81-3683/2012</sessionNumber>
+        <sides>
+            <sideName>Чиркина Светлана Евгеньевна</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;ГЛОРИЯ БУКЕТ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество Коммерческий банк&quot;Газинвестбанк&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:00:00</beginTime>
+        <sessionNumber>А81-3825/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ямалстроймонтажсервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Уренгойнефтегазгеология&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:15:00</beginTime>
+        <sessionNumber>А46-30728/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;ОмскВодоканал&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;ЦентрЖилСервис&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:15:00</beginTime>
+        <sessionNumber>А46-31884/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;Уютный дом&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:15:00</beginTime>
+        <sessionNumber>А70-9035/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Гагаринскремтехпред&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Региональное отделение Федеральной службы по финансовым рынкам в Уральском федеральном округе</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:20:00</beginTime>
+        <sessionNumber>А75-7698/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;НефтеХимСервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Самотлорнефтепромхим&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:30:00</beginTime>
+        <sessionNumber>А46-23498/2009</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Энергоавиакосмос&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Частное предприятие &quot;Будрекс-2002&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;ЭКООЙЛ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Межрегиональная распределительная сетевая компания Сибири&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Омский каучук&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество &quot;Межрегиональная распределительная сетевая компания Сибири&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Частное предприятие &quot;Будрекс - 2002&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Государственное учреждение &quot;Омская лаборатория судебной экспертизы Министерства юстиции Российской Федерации&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Государственное учреждение &quot;Московская лаборатория судебной экспертизы Министерства юстиции Российской Федерации&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Центр судебной экспертизы при Министерстве юстиции РФ</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:30:00</beginTime>
+        <sessionNumber>А46-26433/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество Коммерческий Банк &quot;Эксперт&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Информатика&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью «ЭлитСтрой»</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;ВМТ-Презент&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество &quot;ОТП Банк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество  &quot;ОТП Банк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:40:00</beginTime>
+        <sessionNumber>А46-30850/2012</sessionNumber>
+        <sides>
+            <sideName>Степанов Дмитрий Борисович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Фирма &quot;РЕЗЕРВ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Филимендикова Татьяна Сергеевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сухарев Виктор Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 12 по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Чуянов Александр Васильевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:40:00</beginTime>
+        <sessionNumber>А46-30850/2012</sessionNumber>
+        <sides>
+            <sideName>Степанов Дмитрий Борисович</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Фирма &quot;РЕЗЕРВ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Филимендикова Татьяна Сергеевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сухарев Виктор Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 12 по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Чуянов Александр Васильевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:45:00</beginTime>
+        <sessionNumber>А70-11878/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Гайдук Сергей Николаевич</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Актив&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Смоляр В.Л.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>12:55:00</beginTime>
+        <sessionNumber>А46-4772/2011</sessionNumber>
+        <sides>
+            <sideName>Ковтун Владимир Николаевич</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;НПФ &quot;ЛиКОМ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;Теплогенерирующий комплекс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Электротехнический комплекс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Мусялов Юрий Владимирович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Миннеханов Гизар Нигъматьянович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;НПФ &quot;ЛиКОМ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Отдел адресно-справочной работы УФМС России по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Мусялов Сергей Владимирович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Федоренко Олег Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Шульга Валерий Павлович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Омсклитпром&quot; в лице конкурсного управляющего Чернякова Олега Михайловича</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Шевцов Александр Петрович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Солнышков Михаил Юрьевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Ростелеком&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Омский филиал Открытого акционерного общества &quot;Ростелеком&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сметанин Андрей Энгельсович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Хакасский бентонит&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>открытое акционерное общество  &quot;Ростелеком&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по Советскому административному округу г. Омска</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Комлев В.Л.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>13:30:00</beginTime>
+        <sessionNumber>А81-2576/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;АвтоСевер&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 3 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Сидоренко О.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>13:30:00</beginTime>
+        <sessionNumber>А81-3680/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Роснефтегаз&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция федеральной налоговой службы № 4 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>13:50:00</beginTime>
+        <sessionNumber>А46-31815/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ТД &quot;Мемфис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация г.Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент архитектуры и градостроительства Администрации г. Омска</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Товарищество собственников жилья  &quot;Куйбышевец - 29&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:00:00</beginTime>
+        <sessionNumber>А75-7003/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ЭлектроСтрой ремонт&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ТрансСтройСервис&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:00:00</beginTime>
+        <sessionNumber>А75-8366/2012</sessionNumber>
+        <sides>
+            <sideName>Служба по надзору в сфере охраны окружающей среды, объектов животного мира и лесных отношений Ханты-Мансийского автономного округа - Югры</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Аган-Бурение&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:00:00</beginTime>
+        <sessionNumber>А81-5043/2008</sessionNumber>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 2 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью  &quot;Авто-РИК&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;ПАУ ЦФО&quot; - Некоммерческое партнерство &quot;Саморегулируемая организация арбитражных управляющих Центрального федерального округа&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;ПАУ ЦФО&quot;-Некоммерческое партнерство &quot;Саморегулируемая организация арбитражных управляющих Центрального федерального округа&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Ямало-Ненецкому автономному округу - Югре</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;Саморегулируемая организация арбитражных управляющих &quot;СЕВЕРНАЯ СТОЛИЦА В РЕСПУБЛИКЕ КОМИ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Бухаров Д.Ю.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Томов иван Алексеевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Белоногов В.А.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:10:00</beginTime>
+        <sessionNumber>А46-49/2013</sessionNumber>
+        <sides>
+            <sideName>Управление Федеральной службы по надзору в сфере связи, информационных технологий и массовых коммуникаций по Омской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Омский бекон&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:10:00</beginTime>
+        <sessionNumber>А75-7604/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Специализированное карьерное управление&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Специализированное карьерное управление&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сбербанк России&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Никитенко Владимир Николаевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Каменских Алексей Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Биосфера - Планета Консалтинг&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Дорожное ремонтно-строительное управление&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Вершина&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество Ханты-Мансийский банк</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Лихоузов Владимир Николаевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сорокин Михаил Владимирович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Арбитражный управляющий Батин Павел Сергеевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Шарова Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:10:00</beginTime>
+        <sessionNumber>А81-2019/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество Акционерный Западно-Сибирский коммерческий банк</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Ляшенко Петр Иванович</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;Саморегулируемая организация арбитражных управляющих &quot;Гарантия&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация МО город Салехард</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация муниципального образования г. Салехард</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Ляшенко Петр Иванович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №1 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>К/У Опополь Виктор Николаевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Некоммерческое партнерство «Саморегулируемая организация независимых арбитражных управляющих «ДЕЛО»</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Департпмент финансов администрации г. Салехард</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Алиев Рафик Гельманович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Тарвердиев Заур Иманкули оглы</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Юникорбанк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Бриз&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной регистрационной службы по Тюменской области, ХМАО и ЯНАО</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Кривцов Евгений Геннадьевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Гладышева Е.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:15:00</beginTime>
+        <sessionNumber>А46-1379/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное государственное  бюджетное учреждение &quot;Федеральная кадастровая палата Федеральной службы государственной регистрации, кадастра и картографии&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Сидоренко О.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:15:00</beginTime>
+        <sessionNumber>А46-1379/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное государственное  бюджетное учреждение &quot;Федеральная кадастровая палата Федеральной службы государственной регистрации, кадастра и картографии&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Сидоренко О.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:15:00</beginTime>
+        <sessionNumber>А70-10011/2012</sessionNumber>
+        <sides>
+            <sideName>Труфакина Маргарита Аркадьевна</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Газпромбанк&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:15:00</beginTime>
+        <sessionNumber>А75-1541/2012</sessionNumber>
+        <sides>
+            <sideName>Управление Федеральной службы по надзору в сфере природопользования по Ханты-Мансийскому автономному округу - Югре</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;РН-Юганскнефтегаз&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:20:00</beginTime>
+        <sessionNumber>А46-1400/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федерального агентства кадастра объектов недвижимости по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Золотова Л.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:20:00</beginTime>
+        <sessionNumber>А46-1400/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федерального агентства кадастра объектов недвижимости по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Золотова Л.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:20:00</beginTime>
+        <sessionNumber>А46-29335/2012</sessionNumber>
+        <sides>
+            <sideName>Федеральное государственное унитарное предприятие &quot;ГКНПЦ им. М.В. Хруничева&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Территориальное управление  Федерального  агентства по управлению государственным имуществом  в Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Торговый дом &quot;Кедр&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Кудрина Е.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:20:00</beginTime>
+        <sessionNumber>А70-10687/2012</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Сарыев Сары Гумбат оглы</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №6 по Тюменской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Иванова Н.Е.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:25:00</beginTime>
+        <sessionNumber>А46-1397/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания №11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федерального агентства кадастра объектов недвижимости по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное государственное бюджетное учреждение «Федеральная кадастровая палата Федеральной службы государственной регистрации, кадастра и картографии»</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:25:00</beginTime>
+        <sessionNumber>А46-1397/2010</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания №11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федерального агентства кадастра объектов недвижимости по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное государственное бюджетное учреждение «Федеральная кадастровая палата Федеральной службы государственной регистрации, кадастра и картографии»</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:30:00</beginTime>
+        <sessionNumber>А46-31752/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Торговый центр &quot;Континент&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Судебный пристав-исполнитель ОСП по Кировскому АО г. Омска УФССП России по Омской области Кондул Александр Сергеевич</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Бюджетное учреждение Омской области &quot;Агентство Жилищного строительства Омской области&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:30:00</beginTime>
+        <sessionNumber>А75-7580/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Газпром Трансгаз Югорск&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы по надзору в сфере природопользования по Ханты-Мансийскому автономному округу - Югре</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:30:00</beginTime>
+        <sessionNumber>А75-7692/2012</sessionNumber>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Югорское Управление Инвестиционно-Строительными Проектами&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Няганская промышленно-строительная компания&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:30:00</beginTime>
+        <sessionNumber>А75-8124/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Югорская лизинговая компания&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;У Сервис+&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Неразрушающий котнроль - Дефектоскопия - Спектр ГРАМ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Сибкар Сервис&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество &quot;Сибкар&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:40:00</beginTime>
+        <sessionNumber>А75-7021/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ЮНИТЭК&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Хантымансийскгеофизика&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Турмаркет&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рябухина Н.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:45:00</beginTime>
+        <sessionNumber>А70-25/2013</sessionNumber>
+        <sides>
+            <sideName>Департамент имущественных отношений Тюменской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Форсан&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:45:00</beginTime>
+        <sessionNumber>А70-9332/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Ремстройуникум&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по г. Тюмени № 2</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:45:00</beginTime>
+        <sessionNumber>А75-9686/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Югра-Экспо&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Ханты-Мансийскому автономному округу - Югре</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент по управлению государственным имуществом Ханты-Мансийского автономного округа - Югры</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>14:45:00</beginTime>
+        <sessionNumber>А81-4118/2012</sessionNumber>
+        <sides>
+            <sideName>Первый заместитель прокурора Ямало-Ненецкого автономного округа</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент имущественных отношений Ямало-Ненецкого автономного округа</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;ТАС&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Губернатор Ямало-Ненецкого автономного округа</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:00:00</beginTime>
+        <sessionNumber>А70-10179/2012</sessionNumber>
+        <sides>
+            <sideName>Департамент недропользования и экологии Тюменской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Тюменский государственный архитектурно-строительный университет»</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:00:00</beginTime>
+        <sessionNumber>А70-11455/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Тепло Тюмени&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной Антимонопольной службы по Тюменской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент имущественных отношений Администрации г. Тюмени</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Сибирско-Уральская энергетическая компания&quot; (ОАО &quot;СУЭНКО&quot;)</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Уральская теплосетевая компания&quot; (ОАО &quot;УТСК&quot;)</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:00:00</beginTime>
+        <sessionNumber>А75-5996/2012</sessionNumber>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Нерэм&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по Сургутскому району Ханты-Мансийскому автономному округу - Югре</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Ханты-Мансийскому автономному округу - Югре</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:00:00</beginTime>
+        <sessionNumber>А81-3804/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью&quot;ЛидерСтройСервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Норд-Пласт&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:00:00</beginTime>
+        <sessionNumber>А81-4451/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;СеверСтрой&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Услада&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Ленгазспецстрой&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:05:00</beginTime>
+        <sessionNumber>А75-6165/2009</sessionNumber>
+        <sides>
+            <sideName>Индивидуальный предприниматель Тарасова Людмила Ивановна</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по городу Нефтеюганску Ханты-Мансийского  автономного округа-Югры</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №7 по Ханты-Мансийскому автономному округу Югре</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:15:00</beginTime>
+        <sessionNumber>А46-21664/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Большереченский Водоканал - 1&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Мастерита&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:15:00</beginTime>
+        <sessionNumber>А81-3608/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Совхоз Верхне-Пуровский&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация г. Тарко-Сале</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:20:00</beginTime>
+        <sessionNumber>А46-17714/2009</sessionNumber>
+        <sides>
+            <sideName>Жаханович Олег Игоревич</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;РоКАС&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Локшин Олег Александрович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Чернышова Татьяна Васильевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Каймаков Александр Иванович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Картавцев Олег Валентинович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>ООО &quot;Омский завод трубной изоляции&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Денисова Галина Александровна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Лаврентьева Елена Федоровна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Ратько Денис Юрьевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Кабова Наталья Анатольевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Дорохова Елена Александровна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Гаев Вадим Дмитриевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Ашвиц Александр Иванович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Стенькина Ольга Анатольевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Ратько Ирина Юрьевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Карелин Вячеслав Алексеевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Рутковская К.А</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Акционерное общество &quot;АТФБанк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Бакланова Людмила Александровна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Кузнецова Тамара Алексеевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Корнева Елена Владимировна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Лаврентьев Виктор Николаевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Каймаков Иван Ильич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>административный управляющий ООО &quot;РоКАС&quot; Таран Андрей Борисович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Евдошенко Тамара Лукьяновна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Юдина Т.В.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Вашковский Владимир Константинович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;ПСК &quot;Бизнес Консалтинг&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Варламов Вадим Васильевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;Саморегулируемая организация арбитражных управляющих &quot;Авангард&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Бабачков Владимир Александрович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Локшина Анастасия Олеговна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Лаврентьев В.Н.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Омская городская общественная организация &quot;Общество защиты прав потребителей&quot;Эксперт&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>ОРОУ &quot;Общество защиты прав &quot;Народный потребитель&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Шадский Александр Леонидович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Рутковская Ксения Анатольевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Бачинина Алина Давыдовна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Твердохлеб Э.Г.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №8 по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Степанков Александр Яковлевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Шибанова Татьяна Евгеньевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Колупаев Валерий Викторович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Локшина Виктория Валерьевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>представитель собрания кредиторов ООО &quot;РоКАС&quot; Орехова М.В.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Павлов Алексей Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Главное управление жилищного контроля, государственного строительного надзора и государственной экспертизы Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной регистрационной службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Карелин Алексей Александрович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Ресурс&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Великанова Татьяна Михайловна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Закирова Аниса Фаизовна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Юшкова Елена Владимировна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Хомякова В.В.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Орехов В.И.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Вашковская Т.Д.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Иванова М.М.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Иванов А.А.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Писалев Евгений Геннадьевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Денисов Виталий Михайлович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Временный управляющий Корниенко Юрий Васильевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Арбитражный управляющий Таран Андрей Борисович</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>ОРОО &quot;Первое общество защиты прав потребителей&quot;</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:20:00</beginTime>
+        <sessionNumber>А70-9814/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Проектно-строительная фирма &quot;Стар&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент имущественных отношений Тюменской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:30:00</beginTime>
+        <sessionNumber>А46-30416/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;АНДИНВЕСТ&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы по Ленинскому административному округу г. Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 4 по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:30:00</beginTime>
+        <sessionNumber>А70-9558/2012</sessionNumber>
+        <sides>
+            <sideName>Государственное казённое учреждение Тюменской области &quot;Дирекция коммунально-хозяйственного строительства&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью  &quot;Ишимпроект</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Еникеева Л.И.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:30:00</beginTime>
+        <sessionNumber>А70-9570/2012</sessionNumber>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Завод Тюменьремдормаш&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Дорожник&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:35:00</beginTime>
+        <sessionNumber>А81-3524/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Северная Строительная Компания&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция федеральной налоговой службы № 4 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:40:00</beginTime>
+        <sessionNumber>А81-3727/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Торговая компания &quot;КУНГУР&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Максимум-Сервис&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Веревкин А.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:45:00</beginTime>
+        <sessionNumber>А81-3283/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Стройконсалтинг&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 2 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:45:00</beginTime>
+        <sessionNumber>А81-3944/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Буровая компания &quot;ТОПАЗ&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Сервисная буровая компания&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>15:55:00</beginTime>
+        <sessionNumber>А70-10648/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Тобольский городской молочный завод&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Соколов Олег Дмитриевич</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Смольникова М.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:00:00</beginTime>
+        <sessionNumber>А46-27036/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Сибирская земля&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация Любинского муниципального района Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Федеральная антимонопольная служба</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной антимонопольной службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Сибирская земля&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:00:00</beginTime>
+        <sessionNumber>А46-28879/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Аврора&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Вологодская управляющая компания&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы №1 по Центральному административному округу г. Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:00:00</beginTime>
+        <sessionNumber>А46-28879/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Аврора&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Вологодская управляющая компания&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы №1 по Центральному административному округу г. Омска</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:00:00</beginTime>
+        <sessionNumber>А46-32262/2012</sessionNumber>
+        <sides>
+            <sideName>Бабина Елена Александровна</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Национальный банк &quot;ТРАСТ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Сибнефтепроводтехсервис&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Бабин Дмитрий Вадимович</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 3</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:00:00</beginTime>
+        <sessionNumber>А70-10814/2012</sessionNumber>
+        <sides>
+            <sideName>Управление социальной защиты населения города Тюмени</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Государственное автономное учреждение Тюменской области Центр занятости населения города Тюмени и Тюменского района</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Счетная Палата Тюменской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:10:00</beginTime>
+        <sessionNumber>А46-13259/2010</sessionNumber>
+        <sides>
+            <sideName>открытого акционерного общества «Акционерный коммерческий банк&quot; &quot;Интернациональный Торговый банк&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>открытого акционерного общества «Акционерный коммерческий банк&quot; &quot;Интернациональный Торговый Банк&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Предприятие ДОМЪ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Некоммерческое партнерство &quot;Объединение арбитражный управляющих &quot;Авангард&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Коммерческий центр&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Чаплышкин Виктор Васильевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>ООО &quot;Коммерческий центр&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Открытое акционерное общество АКБ &quot;ИТ Банк&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сенин Н.Н.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Сенин Николай Ноэльевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Соловьёва Марина Васильевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Соловьева Марина Васильевна</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Граффити&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Правильный выбор&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Волков Владимир Анатольевич</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Инспекция Федеральной налоговой службы № 2 по Центральному административному округу г. Омска</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Модус-Вэ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Модус Вэ&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Соловьёва М.В.</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>временный управляющий ООО &quot;Предприятие ДОМЪ&quot; Киселевский К.В.</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий ООО &quot;Предприятие ДОМЪ&quot; Кратько Олег Анатольевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:10:00</beginTime>
+        <sessionNumber>А70-11135/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Тюменьэлектромонтаж&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной Антимонопольной службы по Тюменской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Администрация Тюменского муниципального района</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 2</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:15:00</beginTime>
+        <sessionNumber>А46-13107/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Монолит и К&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;НПО &quot;Мостовик&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>общество с ограниченной ответственностью &quot;Тобольск-Полимер&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Рожков Д.Г.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:15:00</beginTime>
+        <sessionNumber>А46-23865/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;ЦентрЖилСервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Левобережье&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество  &quot;Левобережье&quot; Жилищное управление 3</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы по надзору в сфере связи, информационных технологий и массовых коммуникаций по Омской области (Роскомнадзор)</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>закрытое акционерное общество  &quot;Левобережье&quot; Жилищное управление 3</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Левобережье&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:15:00</beginTime>
+        <sessionNumber>А81-4911/2012</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью&quot;Оптторгсервис&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы № 1 по Ямало-Ненецкому автономному округу</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>Зал судебных заседаний № 6</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:20:00</beginTime>
+        <sessionNumber>А46-25280/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Территориальная генерирующая компания № 11&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Муниципальное предприятие города Омска &quot;Муниципальная недвижимость&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зиновьева Т.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 5</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:20:00</beginTime>
+        <sessionNumber>А70-1217/2013</sessionNumber>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;ТУАНН&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Тюменской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Макарова Оксана Александровна</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Рыжиков О.Ю.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:20:00</beginTime>
+        <sessionNumber>А75-7294/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Передвижная механизированная колонна № 3&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №6 по Ханты-Мансийскому автономному округу-Югре</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Лотов А.Н.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 1</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:30:00</beginTime>
+        <sessionNumber>А46-29337/2012</sessionNumber>
+        <sides>
+            <sideName>Совместное общество с ограниченной ответственностью &quot;Омсклидагромаш&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №1 по Омской области</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Золотова Л.А.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:30:00</beginTime>
+        <sessionNumber>А46-33247/2012</sessionNumber>
+        <sides>
+            <sideName>Главное управление по земельным ресурсам Омской области</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Департамент имущественных  Администрации города Омска</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Наделяев Николай Леонидович</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>16:45:00</beginTime>
+        <sessionNumber>А46-30417/2012</sessionNumber>
+        <sides>
+            <sideName>Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования &quot;Сибирская государственная автомобильно-дорожная академия&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Вкуснятина&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Общество с ограниченной ответственностью &quot;Вкуснятина&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>17:00:00</beginTime>
+        <sessionNumber>А46-32696/2012</sessionNumber>
+        <sides>
+            <sideName>Открытое акционерное общество &quot;Омскэнергосбыт&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Маркелов Павел Александрович</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Муниципальное производственно-эксплуатационное предприятие города Омска &quot;Омскэлектро&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>17:20:00</beginTime>
+        <sessionNumber>А46-29264/2012</sessionNumber>
+        <sides>
+            <sideName>Акционерное общество &quot;АТФБанк&quot;</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Закрытое акционерное общество &quot;Корпорация &quot;АГРО-ТРАСТ&quot;</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной службы государственной регистрации, кадастра и картографии по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Управление Федеральной налоговой службы по Омской области</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>НП &quot;ВАУ &quot;Достояние&quot;</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Временный управляющий ЗАО &quot;Корпорация &quot;АГРО-ТРАСТ&quot; Алексин Вячеслав Алексеевич</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+    <session>
+        <sessionRoom>зал судебных заседаний № 4</sessionRoom>
+        <sessionDate>2013-04-25</sessionDate>
+        <beginTime>17:40:00</beginTime>
+        <sessionNumber>А75-5320/2010</sessionNumber>
+        <sides>
+            <sideName>Межрайонная инспекция Федеральной налоговой службы №5 по Ханты-Мансийскому автономному округу-Югре</sideName>
+            <sideType>1</sideType>
+        </sides>
+        <sides>
+            <sideName>Индивидуальный предприниматель Пигалев Евгений Леонидович</sideName>
+            <sideType>2</sideType>
+        </sides>
+        <sides>
+            <sideName>Отдел судебных приставов по г. Лангепасу УФССП по Ханты-Масийскому автономному округу - Югре</sideName>
+            <sideType>3</sideType>
+        </sides>
+        <sides>
+            <sideName>Конкурсный управляющий Филиппов Александр Владимирович</sideName>
+            <sideType>4</sideType>
+        </sides>
+        <judge>Зорина О.В.</judge>
+    </session>
+</schedule>
