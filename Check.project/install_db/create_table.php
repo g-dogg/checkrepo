@@ -24,7 +24,7 @@ $q = "CREATE TABLE  `appearance`.`hear`
     ) ENGINE = MYISAM CHARACTER SET cp1251 COLLATE cp1251_general_ci";
 
 echo "<form action=\"create_table.php\" method=\"POST\">
-        <input type=\"submit\" name=\"createtable\" value=\"Создать таблицу\">
+        <input type=\"submit\" name=\"createtable\" value=\"Создать таблицу\" class=\"ok\">
       </form>";
 
 if(isset($_POST['createtable']))
