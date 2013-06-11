@@ -1,7 +1,6 @@
 <?php
-        include '../lib/mysql.php';
-        include '../tpl/head.tpl';
-        
+        require '../lib/mysql.php';
+        echo file_get_contents("../tpl/head.tpl");
         
         $today = date("d-F-Y");
         echo "Сегодня " . $today;
