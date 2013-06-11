@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-        <title>Процессы</title>
-    </head>
-    <body>
-        <?php
-        require '/home/web/www/lib/mysql.php';
+<?php
+        include '../lib/mysql.php';
+        include '../tpl/head.tpl';
+        
         
         $today = date("d-F-Y");
         echo "Сегодня " . $today;
@@ -19,14 +14,14 @@
         while($row = mysql_fetch_array($result)){
          echo '<tr>
                 <td>',$row['id'],'</td>
-                <td>',$row['hp'],'</td>
-                <td>',$row['hearingDate'],'</td>
-                <td>',$row['hearingTime'],'</td>
-                <td>',$row['caseNum'],'</td>
-                <td>',$row['Participant1'],'<form action=""><input type="submit" class="submit" value="Истец явился" name="P1OK"></form></td>
-                <td>',$row['Participant2'],'<form action=""><input type="submit" class="submit" value="Ответчик явился" name="P2OK"></form></td>
-                <td>',$row['Participant3'],'<form action=""><input type="submit" class="submit" value="3 лицо явился" name="P3OK"></td>
-                <td>',$row['speakerJudge'],'</td>
+                            <td>',$row['hearingPoint'],'</td>
+                            <td>',$row['hearingDate'],'</td>
+                            <td>',$row['hearingTime'],'</td>
+                            <td>',$row['caseNum'],'</td>
+                            <td>',$row['Judge'],'</td>
+                            <td>',$row['Part'],'</td>
+                            <td>',$row['partType'],'</td>
+                            <td>',$row['Comment'],'</td>
                </tr>';
         }
         echo '</table>';
