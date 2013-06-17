@@ -54,6 +54,7 @@ for($i=0; $i<=$arrayElement; $i++)
             }
          
         }
+        unlink($dirHabdle[$i]);
 }
 echo '</table>';
 ?>
