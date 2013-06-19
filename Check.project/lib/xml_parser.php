@@ -4,8 +4,12 @@ include 'mysql.php';
 
 echo'<table border=1>';
 
+/* получаем массив, элементы которого являются путями до обрабатываемых файлов формата xml
+ * затем передаем поэлементно в цикл парсинга xml
+ */
+
 $dirHabdle = glob("../xml/*.xml", GLOB_NOSORT);
-print_r($dirHabdle);
+
 $countFiles = count($dirHabdle);
 $arrayElement = $countFiles - 1;
 echo "Будет обработано " . $countFiles . " файла(ов)<br />";
