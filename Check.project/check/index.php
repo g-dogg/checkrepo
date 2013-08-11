@@ -36,7 +36,7 @@
                             <td>',$row['hearingTime'],'</td>
                             <td>',$row['caseNum'],'</td>
                             <td>',$row['Judge'],'</td>
-                            <td>',$row['Part'],'<form action=""><input type="submit" class="submit" value="Явился" name="P2OK"></form></td>
+                            <td>',$row['Part'],'<form action="set_check.php"><input type="submit" class="submit" value="Явился" name="'. $row['id'] .'"></form></td> 
                             <td>',$row['partType'],'</td>
                             <td>',$row['Comment'],'</td>
                          </tr>';
@@ -44,6 +44,7 @@
                 echo '</table>';
 	}
 
+        
 	
         echo file_get_contents("../tpl/foot.tpl");
 ?>

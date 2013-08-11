@@ -17,15 +17,58 @@ html {
 }
 
 body {
-    background: darkslateblue;
-    color: lemonchiffon;
-    font: normal 1em arial, helvetica, sans-serif;
+    background: #6b6c70;
+    color: #f5c698;
+    font: normal 1em Candara, sans-serif;
     height: 100%;
 }
 
-header, nav, section, article, aside, footer {
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    line-height: 1;
+}
+
+header, nav, section, article, aside, footer, select, .hallchecked, .submit, .ok, .upload {
     display: block;
     position: relative;
+}
+
+@font-face {
+    font-family: CabinSketch;
+    src: url(fonts/CabinSketch-Regular.ttf);
+}
+
+@font-face {
+    font-family: Candara;
+    src: url(fonts/Candara.ttf);
+}
+
+h1 {
+    font-size: 90px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+header h1 {
+    float: left;
+    margin: 50px 0 20px;
+}
+
+header h6 {
+    margin: 40px 0 0 20px;
+}
+
+header {
+    color: #f5c698;
+    background: url(img/gerb_VASRF.png) right top no-repeat;
+    border-bottom: 2px #f5c698 solid;
+    float: left;
+    font-family: CabinSketch;
+    height: 200px;
+    margin-bottom: 20px;
+    width: 100%;
 }
 
 form {
@@ -33,23 +76,26 @@ form {
 }
 
 input {
-    background: cadetblue;
-    color: lightslategrey;
+    background: #f5c698;
+    color: #6b6c70;
+    font-family: Candara;
     
 }
 
 select {
-    color: coral;
-    background: darkslateblue;
-    font: normal 30px arial, helvetica, sans-serif;
-    display: block;
+    background: #f5c698;
+    border: none;
+    color: #6b6c70;
+    cursor: pointer;
     float: left;
+    font: normal 30px Candara, helvetica, sans-serif;
+    margin: 20px 0 20px;
     width: 100%;
 }
 
 table {
     border-collapse: collapse;
-    border-color: coral;
+    border-color: #f5c698;
     border-style: solid;
     border-width: 2px;
     text-align: center;
@@ -57,7 +103,7 @@ table {
 }
 
 td {
-    border-color: coral;
+    border-color: #f5c698;
     border-style: solid;
     border-width: 2px;
     padding: 5px;
@@ -72,30 +118,67 @@ td {
 
 .container p {
     display: block;
-    font: normal 2em sans-serif;
+    font: normal 2em Candara,sans-serif;
     margin: 0 auto;
     text-align: center;
 }
 
+.upload {
+    margin: 0 auto;
+    padding: 20px;
+    height: 400px;
+    width: 100%;
+    outline: none;
+}
 
+
+.upload input[type="file"] {
+    background: #f5c698 !important;
+    border: none;
+    width: 600px;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+.upload input[type="file"]::-webkit-file-upload-button {
+    display: block;
+    margin-left: 420px;
+    height: 30px;
+    font-family: Candara;
+    border: none;
+    overflow: auto;
+    width: 180px;
+}
+
+.upload input[type="submit"] {
+    background: #f5c698 !important;
+    border: none;
+    color: #6b6c70;
+    display: block;
+    font: 22px Candara,sans-serif;
+    height: 30px;
+    padding: 5px 10px 5px 10px;
+    width: 140px;
+    position: relative;
+    margin: 0 auto;
+}
 
 .hallchecked, .submit, .ok {
-    color: lemonchiffon;
+    border: none;
+    color: #6b6c70;
     padding: 6px 10px;
     -webkit-border-radius: 2px 2px;
-    border: solid 1px rgb(31, 55, 100);
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(0, 20, 61)), to(rgb(31, 53, 99)));
-    font-weight: 200;
+    background: #f5c698;
+    font-weight: bolder;
     font-size: 20px;
     text-decoration: none;
     cursor: pointer;
-    display: block;
     text-align: center;
-    /*text-shadow: 0px 1px 1px rgba(255,255,255,1);*/
 }
 
 .hallchecked:hover, .submit:hover {
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(31, 53, 99)), to(rgb(0, 20, 61)));
+    border: 4px #f5c698 ridge;
 }
 
 .hallchecked, .submit {
