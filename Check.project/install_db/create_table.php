@@ -4,8 +4,24 @@
  * 
  */
 
+
 require '/home/web/www/data/config.php';
 include '/home/web/www/lib/mysql.php';
+
+echo file_get_contents("../tpl/head.tpl");
+echo "Будет создана таблица в БД. <br />";
+echo '<TABLE><tr>
+                 <td>id</td>
+                 <td>hearingPoint</td>
+                 <td>hearingDate</td>
+                 <td>hearingTime</td>
+                 <td>caseNum</td>
+                 <td>Judge</td>
+                 <td>Part</td>
+                 <td>partType</td>
+                 <td>Presence</td>
+                 <td>Comment</td>
+     </tr></TABLE><br />';
 
 $q = "CREATE TABLE  `appearance`.`hear` 
     (
@@ -32,12 +48,12 @@ if(isset($_POST['createtable']))
     if(mysql_query($q))
         {
         echo "Таблица создана";
-        header("Location: http://192.168.56.101/install_db/form_1.html");
+        header("Location: http://localhost");
         }
     else 
         {
         echo "Ошибка: " .mysql_error ();
         }
     }
-
+echo file_get_contents("../tpl/foot.tpl");
 ?>

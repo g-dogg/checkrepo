@@ -19,16 +19,16 @@
             $info .= '$db_pass = "' . $db_pass . "\"; \n";
             $info .= 'define("colHall", "' . $hall_num . "\");";
             
-            $handle = fopen("data/connect.php", "a+");
+            $handle = fopen("../data/connect.php", "a+");
             fwrite($handle, $info);
             fclose($handle);
-            echo 'Данные записаны в файл';
+            echo "Данные записаны в файл. Перейти к созданию таблицы в БД? <a href=\"create_table.php\">ДА</a>";
             echo '';
            }
            else
            {
                echo "Поля сервер, имя базы или имя пользователя не должны быть пустыми<br />";
-               echo "Вернуться к заполнению <a href=\"../tpl/form.tpl\">формы</a>";
+               echo "Вернуться к заполнению <a href=\"/index.php\">формы</a>";
                
            }
    }
